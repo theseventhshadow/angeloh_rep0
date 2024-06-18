@@ -1,2 +1,2 @@
-print("hola potaxie ")
-print("gnreajgb")
+print("hola potaxie")
+print("yiaaaaa")
